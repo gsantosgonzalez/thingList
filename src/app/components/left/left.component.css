@@ -1,0 +1,8 @@
+.left-paragraph{
+    border: 1px solid red;
+    height: 300px;
+}
+
+li{
+    list-style: none;
+}
